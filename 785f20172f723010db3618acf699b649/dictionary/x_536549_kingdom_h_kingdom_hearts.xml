@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Kingdom Hearts" max_length="40" name="x_536549_kingdom_h_kingdom_hearts" type="collection">
+        <element label="Biography" max_length="65536" name="biography" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Character" max_length="40" name="character" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nickname" max_length="40" name="nickname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Organization Number" max_length="40" name="organization_number" type="integer"/>
+    </element>
+</database>
