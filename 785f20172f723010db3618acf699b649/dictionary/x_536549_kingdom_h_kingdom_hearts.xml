@@ -2,8 +2,14 @@
     <element label="Kingdom Hearts" max_length="40" name="x_536549_kingdom_h_kingdom_hearts" type="collection">
         <element label="Biography" max_length="65536" name="biography" type="html"/>
         <element attributes="edge_encryption_enabled=true" label="Character" max_length="40" name="character" type="string"/>
+        <element label="Keyblade" max_length="40" name="keyblade" type="string"/>
+        <element label="Keyblade Locks" max_length="40" name="keyblade_locks" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Nickname" max_length="40" name="nickname" type="string"/>
+        <element label="NPC" max_length="40" name="npc" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Organization Number" max_length="40" name="organization_number" type="integer"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element label="World Boss" max_length="40" name="world_boss" type="string"/>
+        <element label="World Name" max_length="40" name="world_name" type="string"/>
     </element>
 </database>
