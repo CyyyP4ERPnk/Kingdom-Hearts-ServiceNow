@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="World Maps Import" max_length="40" name="x_536549_kingdom_h_world_maps_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Keyblade" label="Keyblade" max_length="40" name="u_keyblade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Keyblade Locks" label="Keyblade Locks" max_length="40" name="u_keyblade_locks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=World Boss" label="World Boss" max_length="40" name="u_world_boss" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=World Name" label="World Name" max_length="40" name="u_world_name" type="string"/>
+    </element>
+</database>
